@@ -11,6 +11,8 @@ This Template will automatically create a project sample reference for you to cr
 To use this project template just download the BizTalk MapperExtensions Functoid Template.zip file and copy to the following location:
 * C:\Users\<your-account>\Documents\Visual Studio 2019\Templates\ProjectTemplates
 
+![BizTalk MapperExtensions Functoid Project Template](media/Visual-Studio-2019-BizTalk-Server-Functoid-Project-Template-option.png)
+
 ![BizTalk MapperExtensions Functoid Project Template](media/Visual-Studio-2019-BizTalk-Server-Functoid-Project-sample.png)
 
 # About Me
